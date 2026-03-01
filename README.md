@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dykevar Gakuria</h1>
+<h1 align="center">Dykevar Gakuria</h1>
 <h3 align="center">I am a passionate tech enthusiast who is intrigued by the vast world of data</h3>
 <img align="centre" alt="coding width="400" height= "150" src ="https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif">
 
@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **currently working on a sales database that uses a json script to fetch data from a saved list validates the data and then submits it to the database eliminated the interaction between the sales agent and the and the database for better security to laterconnect the database with power bi for a live dashboard of the sales**
 
-- 🌱 I’m currently learning **Python for data science**
+- 🌱 Expert **Python for data science**
 
-- 💬 Ask me about **pandas matplotlib scikit-learn**
+- 💬 Ask me about **Data science data analysis data management**
 
-- 📫 How to reach me **dyqjane@gmail.com**
+- 📫 you can reach me through **dyqjane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dykevar gakuria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dykevar gakuria" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dykevar gakuria" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.svgoUT8hREgpphnOVj1NTgHaHa?w=199&h=199&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="dykevar gakuria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
